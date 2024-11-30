@@ -1,11 +1,21 @@
 # 💻 Sahil Saw  
 **7004943214** | **[sahilsaw23@gmail.com](mailto:sahilsaw23@gmail.com)**  
-**[LinkedIn](https://linkedin.com/in/sahil-saw/)** | **[GitHub](https://github.com/Sahilsaw)** | **[LeetCode](https://leetcode.com/)**  
+**[LinkedIn](https://linkedin.com/in/sahil-saw/)** | **[LeetCode](https://leetcode.com/)**  
 
 ---
 
 ## 🚀 About Me  
-I am a passionate and skilled software developer with expertise in full-stack development, data structures, and algorithms. With a strong foundation in computer science, I excel at solving complex problems and building scalable applications.  
+Hello! I'm Sahil Saw, a Third-year IT student at the Noida Institute of Engineering & Technology. I'm skilled in C++, Java, JavaScript and Python. I'm focused on becoming an expert in DevOps.
+
+Currently, I'm a Research and Development Intern at FinXsystems, where I work on innovative projects and solutions. I've also worked as a freelance UI&UX designer for the startup Davaivala, creating user-friendly and visually appealing interfaces.
+
+I enjoy competitive coding and have solved over 700 DSA problems on LeetCode, CF and other platforms combined constantly improving my problem-solving skills. I love working in teams and contributing to open-source projects, believing that collaboration leads to great tech innovations.
+
+Feel free to reach out:
+Contact: 7004943214 (Work)
+Email: sahilsaw23@gmail.com
+
+Let's connect and build something amazing!  
 
 ---
 
