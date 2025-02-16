@@ -20,4 +20,4 @@
 ### 🌐 Find Me Online  
 -  [LinkedIn](https://linkedin.com/in/sahil-saw/)  
 -  [Portfolio](https://github.com/Sahilsaw)  
-- ✉ sahilsaw23@gmail.com  
+-  sahilsaw23@gmail.com  
