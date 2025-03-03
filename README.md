@@ -1,12 +1,8 @@
 <div align="center">
-  
-  <!-- ASCII Header Border -->
-  ```
-  ▋▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▋
-  ```
+
   
   # SAHIL SAW  
-  ### Full-Stack Developer & Systems Architect
+  ### Full-Stack Developer & Competitive Programmer
   
   <!-- Competitive Programming Badges -->
   ![Codeforces](https://img.shields.io/badge/Codeforces-1497-1f8b4c?style=flat&labelColor=black)
@@ -73,9 +69,5 @@ Tools     : Git │ Postman │ Zustand │ Cloudinary
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahil-saw/)  
   [![Portfolio](https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=vercel)](https://sahilsaw.vercel.app)  
   [![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:sahilsaw23@gmail.com)
-  
-  ```
-  ▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▟
-  ```
-  
+
 </div>
