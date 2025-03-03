@@ -1,58 +1,81 @@
-# Sahil Saw
-
-**B.Tech in Information Technology** | NIET, India  
-**Competitive Programmer** | Codeforces Specialist (1497) | CodeChef 3-star (1609)  
-
----
-
-### Technical Profile
-- **Full-Stack Developer**: Production-grade experience with React.js, Node.js, and PostgreSQL
-- **Algorithmic Expertise**: 1000+ problems solved across LeetCode, Codeforces, and CodeChef
-- **Systems Design**: Built complex systems including blockchain applications and pathfinding algorithms
-
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilsaw&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150" alt="Performance Metrics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahilsaw&layout=compact&theme=dracula&hide_border=true" height="150" alt="Language Distribution" />
+  
+  <!-- ASCII Header Border -->
+  ```
+  ▋▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▋
+  ```
+  
+  # SAHIL SAW  
+  ### Full-Stack Developer & Systems Architect
+  
+  <!-- Competitive Programming Badges -->
+  ![Codeforces](https://img.shields.io/badge/Codeforces-1497-1f8b4c?style=flat&labelColor=black)
+  ![CodeChef](https://img.shields.io/badge/CodeChef-1609-6b8e23?style=flat&labelColor=black)
 </div>
 
 ---
 
-### Technical Arsenal
+## Core Competencies
+```
+┌──────────────────────┬──────────────────────┐
+│ Full-Stack Systems   │ Real-Time Applications │
+│ High-Performance APIs│ Scalable Databases   │
+│ Complex Algorithms   │ Cloud Infrastructure  │
+└──────────────────────┴──────────────────────┘
+```
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="Socket.IO" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahilsaw&theme=merko&show_icons=true&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahilsaw&theme=merko&hide_border=true" height="165" />
 </div>
 
 ---
 
-### Professional Highlights
-- **FinXsystems R&D**: Developed core banking solutions in Node.js during internship
-- **Blockchain Waste Management**: Led development of multilingual system with smart contracts
-- **Maritime Routing Platform**: Architected A* algorithm implementation for optimal ship paths
-- **UI/UX Consulting**: Designed interfaces for startups including one that secured ₹1 Cr funding
+## Technology Matrix
+```
+Frontend  : React │ React Router │ Tailwind CSS │ HTML5/CSS3
+Backend   : Node │ Express │ Socket.IO │ REST APIs
+Database  : PostgreSQL │ Neon.tech │ Firebase
+Infra     : Docker │ AWS EC2 │ Nginx │ PM2
+Tools     : Git │ Postman │ Zustand │ Cloudinary
+```
 
 ---
 
-### Connect With Me
+## Signature Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h4>Kizuna Real-Time Chat App</h4>
+      <ul>
+        <li>PERN stack chat application</li>
+        <li>Socket.IO-powered real-time messaging</li>
+        <li>Group chat with optimized message delivery</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>Ship Routing Platform</h4>
+      <ul>
+        <li>Optimized ship navigation using A* algorithm</li>
+        <li>Real-time weather & sea condition integration</li>
+        <li>Open-source solution for maritime logistics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
-  <a href="https://linkedin.com/in/sahil-saw">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" height="30" alt="LinkedIn" />
-  </a>
-  <a href="https://sahilsaw.vercel.app" style="margin-left: 15px">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=flat" height="30" alt="Portfolio" />
-  </a>
-  <a href="mailto:sahilsaw23@gmail.com" style="margin-left: 15px">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" height="30" alt="Email" />
-  </a>
+  
+  ### Connectivity Protocol
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahil-saw/)  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=vercel)](https://sahilsaw.vercel.app)  
+  [![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:sahilsaw23@gmail.com)
+  
+  ```
+  ▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▟
+  ```
+  
 </div>
