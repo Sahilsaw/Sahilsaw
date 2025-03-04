@@ -52,7 +52,7 @@ Tools     : Git │ Postman │ Zustand │ Cloudinary
     <td width="50%">
       <h4>Eco-Engage</h4>
       <ul>
-        <li>Developed a multilingual waste segregation platform</li>
+        <li>Developed a multilingual platform</li>
         <li>Deployed on AWS with 99.8% uptime.</li>
         <li>Supported CSR programs</li>
       </ul>
