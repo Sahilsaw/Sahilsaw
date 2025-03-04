@@ -53,8 +53,8 @@ Tools     : Git │ Postman │ Zustand │ Cloudinary
       <h4>Eco-Engage</h4>
       <ul>
         <li>Developed a multilingual waste segregation platform</li>
-        <li>Deployed on AWS with 99.8% uptime, scaling for 10,000+ users.</li>
-        <li>Supported state government initiatives and CSR programs</li>
+        <li>Deployed on AWS with 99.8% uptime.</li>
+        <li>Supported CSR programs</li>
       </ul>
     </td>
   </tr>
