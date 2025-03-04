@@ -54,7 +54,7 @@ Tools     : Git │ Postman │ Zustand │ Cloudinary
       <ul>
         <li>Developed a multilingual platform</li>
         <li>Deployed on AWS with 99.8% uptime.</li>
-        <li>Supported CSR programs</li>
+        <li>Supported government initiative and CSR programs</li>
       </ul>
     </td>
   </tr>
