@@ -14,9 +14,9 @@
 ## Core Competencies
 ```
 ┌──────────────────────┬──────────────────────┐
-│ Full-Stack Systems   │ Real-Time Applications │
+│ Full-Stack Systems   │ Real-Time App        │
 │ High-Performance APIs│ Scalable Databases   │
-│ Complex Algorithms   │ Cloud Infrastructure  │
+│ Complex Algorithms   │ Cloud System         │
 └──────────────────────┴──────────────────────┘
 ```
 
@@ -31,7 +31,7 @@
 ```
 Frontend  : React │ React Router │ Tailwind CSS │ HTML5/CSS3
 Backend   : Node │ Express │ Socket.IO │ REST APIs
-Database  : PostgreSQL │ Neon.tech │ Firebase
+Database  : SQL | PostgreSQL │ Neon.tech 
 Infra     : Docker │ AWS EC2 │ Nginx │ PM2
 Tools     : Git │ Postman │ Zustand │ Cloudinary
 ```
@@ -50,11 +50,11 @@ Tools     : Git │ Postman │ Zustand │ Cloudinary
       </ul>
     </td>
     <td width="50%">
-      <h4>Ship Routing Platform</h4>
+      <h4>Eco-Engage</h4>
       <ul>
-        <li>Optimized ship navigation using A* algorithm</li>
-        <li>Real-time weather & sea condition integration</li>
-        <li>Open-source solution for maritime logistics</li>
+        <li>Developed a multilingual waste segregation platform</li>
+        <li>Deployed on AWS with 99.8% uptime, scaling for 10,000+ users.</li>
+        <li>Supported state government initiatives and CSR programs</li>
       </ul>
     </td>
   </tr>
